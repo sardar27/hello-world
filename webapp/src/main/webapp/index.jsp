@@ -22,9 +22,6 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <br>
-    <label for="psw-forgot"><b>forgot Password</b></label>
-    <input type="password" placeholder="forgot Password" name="psw-forgot" id="psw-forgot" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
