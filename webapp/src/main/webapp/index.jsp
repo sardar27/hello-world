@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Hii this Anusha </h1>
+   <h1> Hii Sindhu </h1>
 
   
 </form>
